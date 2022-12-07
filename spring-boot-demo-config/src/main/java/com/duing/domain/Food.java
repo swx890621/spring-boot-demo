@@ -1,4 +1,4 @@
-package com.duing.food;
+package com.duing.domain;
 
 public class Food {
     private String rice;
